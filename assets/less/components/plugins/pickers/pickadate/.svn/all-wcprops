@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/less/components/plugins/pickers/pickadate
+END
+base.less
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/less/components/plugins/pickers/pickadate/base.less
+END
+date.less
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/less/components/plugins/pickers/pickadate/date.less
+END
+time.less
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/less/components/plugins/pickers/pickadate/time.less
+END

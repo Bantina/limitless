@@ -1,0 +1,719 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets
+END
+html.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/html.js
+END
+snippets.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/snippets.js
+END
+mysql.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/mysql.js
+END
+mushcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/mushcode.js
+END
+praat.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/praat.js
+END
+sass.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/sass.js
+END
+twig.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/twig.js
+END
+scad.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/scad.js
+END
+elm.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/elm.js
+END
+luapage.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/luapage.js
+END
+ini.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/ini.js
+END
+csharp.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/csharp.js
+END
+ruby.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/ruby.js
+END
+haml.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/haml.js
+END
+python.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/python.js
+END
+tcl.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/tcl.js
+END
+c_cpp.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/c_cpp.js
+END
+dot.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/dot.js
+END
+pgsql.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/pgsql.js
+END
+rdoc.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/rdoc.js
+END
+liquid.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/liquid.js
+END
+gherkin.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/gherkin.js
+END
+php.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/php.js
+END
+css.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/css.js
+END
+dart.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/dart.js
+END
+lsl.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/lsl.js
+END
+properties.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/properties.js
+END
+xquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/xquery.js
+END
+svg.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/svg.js
+END
+sjs.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/sjs.js
+END
+xml.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/xml.js
+END
+tex.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/tex.js
+END
+c9search.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/c9search.js
+END
+django.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/django.js
+END
+actionscript.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/actionscript.js
+END
+perl.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/perl.js
+END
+coldfusion.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/coldfusion.js
+END
+verilog.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/verilog.js
+END
+golang.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/golang.js
+END
+plain_text.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/plain_text.js
+END
+lisp.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/lisp.js
+END
+jack.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/jack.js
+END
+json.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/json.js
+END
+sh.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/sh.js
+END
+mel.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/mel.js
+END
+latex.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/latex.js
+END
+smarty.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/smarty.js
+END
+forth.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/forth.js
+END
+haskell.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/haskell.js
+END
+d.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/d.js
+END
+scala.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/scala.js
+END
+text.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/text.js
+END
+groovy.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/groovy.js
+END
+rhtml.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/rhtml.js
+END
+autohotkey.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/autohotkey.js
+END
+vbscript.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/vbscript.js
+END
+rust.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/rust.js
+END
+velocity.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/velocity.js
+END
+protobuf.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/protobuf.js
+END
+glsl.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/glsl.js
+END
+pascal.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/pascal.js
+END
+clojure.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/clojure.js
+END
+julia.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/julia.js
+END
+soy_template.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/soy_template.js
+END
+javascript.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/javascript.js
+END
+less.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/less.js
+END
+io.js
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/io.js
+END
+erlang.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/erlang.js
+END
+diff.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/diff.js
+END
+scss.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/scss.js
+END
+makefile.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/makefile.js
+END
+textile.js
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/textile.js
+END
+ejs.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/ejs.js
+END
+markdown.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/markdown.js
+END
+powershell.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/powershell.js
+END
+livescript.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/livescript.js
+END
+assembly_x86.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/assembly_x86.js
+END
+ftl.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/ftl.js
+END
+logiql.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/logiql.js
+END
+gitignore.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/gitignore.js
+END
+eiffel.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/eiffel.js
+END
+ocaml.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/ocaml.js
+END
+elixir.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/elixir.js
+END
+jsp.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/jsp.js
+END
+nix.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/nix.js
+END
+matlab.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/matlab.js
+END
+yaml.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/yaml.js
+END
+jade.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/jade.js
+END
+abap.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/abap.js
+END
+jsoniq.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/jsoniq.js
+END
+handlebars.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/handlebars.js
+END
+stylus.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/stylus.js
+END
+scheme.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/scheme.js
+END
+jsx.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/jsx.js
+END
+html_ruby.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/html_ruby.js
+END
+typescript.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/typescript.js
+END
+dockerfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/dockerfile.js
+END
+toml.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/toml.js
+END
+lucene.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/lucene.js
+END
+objectivec.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/objectivec.js
+END
+asciidoc.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/asciidoc.js
+END
+gcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/gcode.js
+END
+batchfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/batchfile.js
+END
+java.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/java.js
+END
+lua.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/lua.js
+END
+vala.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/vala.js
+END
+cirru.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/cirru.js
+END
+haxe.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/haxe.js
+END
+ada.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/ada.js
+END
+applescript.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/applescript.js
+END
+apache_conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/apache_conf.js
+END
+coffee.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/coffee.js
+END
+space.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/space.js
+END
+vhdl.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/vhdl.js
+END
+curly.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/curly.js
+END
+cobol.js
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/cobol.js
+END
+sql.js
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/sql.js
+END
+r.js
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/r.js
+END
+prolog.js
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/js/plugins/editors/ace/snippets/prolog.js
+END

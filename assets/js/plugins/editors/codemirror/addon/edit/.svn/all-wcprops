@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/edit
+END
+closebrackets.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/edit/closebrackets.js
+END
+trailingspace.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/edit/trailingspace.js
+END
+matchbrackets.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/edit/matchbrackets.js
+END
+matchtags.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/edit/matchtags.js
+END
+continuelist.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/edit/continuelist.js
+END
+closetag.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/edit/closetag.js
+END

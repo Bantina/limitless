@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/lines
+END
+lines_difference.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/lines/lines_difference.tsv
+END
+lines_gradient.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/lines/lines_gradient.tsv
+END
+lines_transitions.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/lines/lines_transitions.tsv
+END
+lines_stacked.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/lines/lines_stacked.tsv
+END
+lines_basic.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/lines/lines_basic.tsv
+END
+lines_multi_series.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/lines/lines_multi_series.tsv
+END
+lines_small_multiples.csv
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/lines/lines_small_multiples.csv
+END
+lines_bivariate.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/lines/lines_bivariate.tsv
+END
+lines_stacked_nest.csv
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/lines/lines_stacked_nest.csv
+END

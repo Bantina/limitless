@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/fold
+END
+comment-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/fold/comment-fold.js
+END
+markdown-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/fold/markdown-fold.js
+END
+foldgutter.css
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/fold/foldgutter.css
+END
+brace-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/fold/brace-fold.js
+END
+foldcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/fold/foldcode.js
+END
+foldgutter.js
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/fold/foldgutter.js
+END
+xml-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/fold/xml-fold.js
+END
+indent-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/js/plugins/editors/codemirror/addon/fold/indent-fold.js
+END

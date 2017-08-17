@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/tables
+END
+datatable_2500.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/tables/datatable_2500.json
+END
+datatable_nested.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/tables/datatable_nested.json
+END
+datatable_ajax.json
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/tables/datatable_ajax.json
+END

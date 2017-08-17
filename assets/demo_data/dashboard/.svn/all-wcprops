@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/dashboard
+END
+app_sales_heatmap.csv
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/dashboard/app_sales_heatmap.csv
+END
+app_sales.csv
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/dashboard/app_sales.csv
+END
+bullets.json
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/dashboard/bullets.json
+END
+monthly_sales.json
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/dashboard/monthly_sales.json
+END
+traffic_sources.csv
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/dashboard/traffic_sources.csv
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/bars
+END
+bars_stacked.csv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/bars/bars_stacked.csv
+END
+bars_basic.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/bars/bars_basic.tsv
+END
+bars_grouped.csv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/bars/bars_grouped.csv
+END
+bars_horizontal.csv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/bars/bars_horizontal.csv
+END
+bars_stacked_multiple.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/bars/bars_stacked_multiple.tsv
+END
+bars_tooltip.tsv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/bars/bars_tooltip.tsv
+END
+bars_hierarchical.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/assets/demo_data/d3/bars/bars_hierarchical.json
+END

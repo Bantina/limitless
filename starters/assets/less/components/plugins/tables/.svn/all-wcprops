@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/less/components/plugins/tables
+END
+footable.less
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/less/components/plugins/tables/footable.less
+END
+datatable-fixed-columns.less
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/less/components/plugins/tables/datatable-fixed-columns.less
+END
+datatable-responsive.less
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/less/components/plugins/tables/datatable-responsive.less
+END
+datatable-columns-reorder.less
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/less/components/plugins/tables/datatable-columns-reorder.less
+END
+datatable-columns-visibility.less
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/less/components/plugins/tables/datatable-columns-visibility.less
+END
+datatable-scroller.less
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/less/components/plugins/tables/datatable-scroller.less
+END
+datatables.less
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/less/components/plugins/tables/datatables.less
+END
+datatable-tabletools.less
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/arch_lib/!svn/ver/110/service/messages/admin/src/public/html/starters/assets/less/components/plugins/tables/datatable-tabletools.less
+END
